@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Practo Get Hospital Names Case Study" parallel="false">
+  
+  <test name="SmokeTest: Login Page">
+    <classes>
+      <class name="SmokeTest.Login"/>
+    </classes>
+  </test>
+  <test name="Test: Search Hospital">
+    <classes>
+      <class name="Test.Test_"/>
+    </classes>
+  </test>
+  <test name="SmokeTest: Welcome Page">
+    <classes> 
+      <class name="SmokeTest.WelcomePage"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

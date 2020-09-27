@@ -1,0 +1,8 @@
+2020-07-05 21:13:36,675 - Test1 -INFO - ***********************************
+2020-07-05 21:13:36,675 [main] INFO Test1 - ***********************************
+2020-07-05 21:13:36,679 - Test1 -INFO - New Test Case
+2020-07-05 21:13:36,679 [main] INFO Test1 - New Test Case
+2020-07-05 21:13:36,679 - Test1 -INFO - ***********************************
+2020-07-05 21:13:36,679 [main] INFO Test1 - ***********************************
+2020-07-05 21:13:36,708 - Test1 -INFO - Reading data from config file. Successful
+2020-07-05 21:13:36,708 [main] INFO Test1 - Reading data from config file. Successful
